@@ -2,6 +2,7 @@ function plot_lwlr(X, y, tau, res)
 
 
 x = zeros(2,1);
+pred = zeros(res, res);
 for i=1:res,
   for j=1:res,
     x(1) = 2*(i-1)/(res-1) - 1;
