@@ -4,8 +4,8 @@ cd('C:\Users\Chris\Documents\GitHub\MachineLearningStanford\SEE\ps1');
 
 % tau = 0.01;
 % tau = 0.05
-% tau = 0.1;
-tau = 0.5;
+tau = 0.1;
+% tau = 0.5;
 % tau = 1.0;
 % tau = 5.0;
 
